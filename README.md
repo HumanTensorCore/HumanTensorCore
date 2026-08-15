@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Human Tensor Core
 
 > Before I learned tensor broadcasting, I was the tensor broadcasting.
